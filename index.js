@@ -1,0 +1,5 @@
+function newFunction () {
+
+}
+
+$(newFunction);
